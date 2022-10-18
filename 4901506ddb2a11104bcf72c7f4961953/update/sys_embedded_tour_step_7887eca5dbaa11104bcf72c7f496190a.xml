@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="INSERT_OR_UPDATE">
+        <action>false</action>
+        <action_event>next</action_event>
+        <action_target/>
+        <action_target_ref display_value="xpath">7c87eca5dbaa11104bcf72c7f4961908</action_target_ref>
+        <active>true</active>
+        <content><![CDATA[Select it]]></content>
+        <guide display_value="ESC Main page">e216e865dbaa11104bcf72c7f49619f5</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name/>
+        <options>{"url":"/esc?id=emp_taxonomy_topic&amp;topic_id=01a497a7c3053010069aec4b7d40dd14"}</options>
+        <order>5</order>
+        <placement>top</placement>
+        <skippable>false</skippable>
+        <step_type>step</step_type>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-14 17:14:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7887eca5dbaa11104bcf72c7f496190a</sys_id>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt Spoke" source="x_720973_needit_sp">4901506ddb2a11104bcf72c7f4961953</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">4901506ddb2a11104bcf72c7f4961953</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_7887eca5dbaa11104bcf72c7f496190a</sys_update_name>
+        <target/>
+        <target_ref display_value="xpath">7c87eca5dbaa11104bcf72c7f4961908</target_ref>
+        <title/>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window>esc</window>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="delete_multiple" query="documentkey=7887eca5dbaa11104bcf72c7f496190a"/>
+</record_update>

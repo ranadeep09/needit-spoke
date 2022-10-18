@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_guide">
+    <sys_embedded_tour_guide action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <additional_parameters/>
+        <autolaunch_order>0</autolaunch_order>
+        <context>esc?id=ec_pro_dashboard&amp;gtd_portal_title=Employee Center&amp;gtd_page_title=Employee Center Pro Homepage</context>
+        <description/>
+        <has_concl>true</has_concl>
+        <has_intro>true</has_intro>
+        <name>ESC Main page</name>
+        <options/>
+        <roles/>
+        <sp_page display_value="ec_pro_dashboard">0c9e5ccd537030101865ddeeff7b12cb</sp_page>
+        <sp_portal display_value="Employee Center">70cd9f3b734b13001fdae9c54cf6a72f</sp_portal>
+        <status>published</status>
+        <sys_class_name>sys_embedded_tour_guide</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-14 17:08:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e216e865dbaa11104bcf72c7f49619f5</sys_id>
+        <sys_name>ESC Main page</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt Spoke" source="x_720973_needit_sp">4901506ddb2a11104bcf72c7f4961953</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">4901506ddb2a11104bcf72c7f4961953</sys_scope>
+        <sys_update_name>sys_embedded_tour_guide_e216e865dbaa11104bcf72c7f49619f5</sys_update_name>
+        <tour_id>TOUR0000009</tour_id>
+        <type>service_portal</type>
+    </sys_embedded_tour_guide>
+</record_update>

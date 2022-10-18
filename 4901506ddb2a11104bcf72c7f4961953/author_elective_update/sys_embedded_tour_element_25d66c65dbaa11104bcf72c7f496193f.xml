@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_element">
+    <sys_embedded_tour_element action="DELETE">
+        <cell_edit/>
+        <cell_types/>
+        <col/>
+        <cxs_results/>
+        <element_type>link</element_type>
+        <field/>
+        <field_action/>
+        <field_header/>
+        <filters/>
+        <form_buttons>additional_actions</form_buttons>
+        <form_element>field</form_element>
+        <form_section/>
+        <frameset>nav_filter</frameset>
+        <list_element>ui_action</list_element>
+        <list_header/>
+        <manual_css>.mega-menu__items &gt; .sub-topics-container &gt; DIV:nth-of-type(1) [role="list"] [role="none"] LI:nth-of-type(2) [href=""]</manual_css>
+        <name>xpath</name>
+        <record_id/>
+        <related_field/>
+        <related_links/>
+        <related_list_element>ui_action</related_list_element>
+        <related_lists/>
+        <related_table/>
+        <row/>
+        <sys_class_name>sys_embedded_tour_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-14 17:11:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>25d66c65dbaa11104bcf72c7f496193f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>xpath</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt Spoke" source="x_720973_needit_sp">4901506ddb2a11104bcf72c7f4961953</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">4901506ddb2a11104bcf72c7f4961953</sys_scope>
+        <sys_update_name>sys_embedded_tour_element_25d66c65dbaa11104bcf72c7f496193f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-14 17:11:45</sys_updated_on>
+        <table/>
+        <type>manual_css</type>
+        <ui_action/>
+    </sys_embedded_tour_element>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt Spoke">4901506ddb2a11104bcf72c7f4961953</application>
+        <file_path/>
+        <instance_id>e76b85dedb9b00103050ac44d4961995</instance_id>
+        <instance_name>dev102164</instance_name>
+        <name>sys_embedded_tour_element_25d66c65dbaa11104bcf72c7f496193f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_element"><sys_embedded_tour_element action="INSERT_OR_UPDATE"><cell_edit/><cell_types/><col/><cxs_results/><element_type>link</element_type><field/><field_action/><field_header/><filters/><form_buttons>additional_actions</form_buttons><form_element>field</form_element><form_section/><frameset>nav_filter</frameset><list_element>ui_action</list_element><list_header/><manual_css>.mega-menu__items &gt; .sub-topics-container &gt; DIV:nth-of-type(1) [role="list"] [role="none"] LI:nth-of-type(2) [href=""]</manual_css><name>xpath</name><record_id/><related_field/><related_links/><related_list_element>ui_action</related_list_element><related_lists/><related_table/><row/><sys_class_name>sys_embedded_tour_element</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-10-14 17:11:45</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>25d66c65dbaa11104bcf72c7f496193f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>xpath</sys_name><sys_overrides/><sys_package display_value="NeedIt Spoke" source="x_720973_needit_sp">4901506ddb2a11104bcf72c7f4961953</sys_package><sys_policy/><sys_scope display_value="NeedIt Spoke">4901506ddb2a11104bcf72c7f4961953</sys_scope><sys_update_name>sys_embedded_tour_element_25d66c65dbaa11104bcf72c7f496193f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-10-14 17:11:45</sys_updated_on><table/><type>manual_css</type><ui_action/></sys_embedded_tour_element></record_update>]]></payload>
+        <payload_hash>-70853520</payload_hash>
+        <record_name>xpath</record_name>
+        <reverted_from/>
+        <source>8d01506ddb2a11104bcf72c7f4961956</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-14 17:11:45</sys_created_on>
+        <sys_id>e9d66c65dbaa11104bcf72c7f4961940</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183d77b00110000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-14 17:11:45</sys_updated_on>
+        <type>Guided Tour Element</type>
+        <update_guid>25d66c65beaa11103bf71f9ad9d19340</update_guid>
+        <update_guid_history>25d66c65beaa11103bf71f9ad9d19340:-70853520</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-14 17:13:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_embedded_tour_element">sys_embedded_tour_element</sys_db_object>
+        <sys_id>2c15c7f1327440ca9665087d9a320144</sys_id>
+        <sys_metadata>25d66c65dbaa11104bcf72c7f496193f</sys_metadata>
+        <sys_name>xpath</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_720973_needit_sp">4901506ddb2a11104bcf72c7f4961953</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">4901506ddb2a11104bcf72c7f4961953</sys_scope>
+        <sys_scope_delete display_value="">74df5eb73b894680812f84f470092710</sys_scope_delete>
+        <sys_update_name>sys_embedded_tour_element_25d66c65dbaa11104bcf72c7f496193f</sys_update_name>
+        <sys_update_version display_value="sys_embedded_tour_element_25d66c65dbaa11104bcf72c7f496193f">e9d66c65dbaa11104bcf72c7f4961940</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

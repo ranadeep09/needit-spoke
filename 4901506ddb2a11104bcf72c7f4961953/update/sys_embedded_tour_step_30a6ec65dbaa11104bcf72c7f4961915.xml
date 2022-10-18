@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="INSERT_OR_UPDATE">
+        <action>true</action>
+        <action_event>click</action_event>
+        <action_target/>
+        <action_target_ref/>
+        <active>true</active>
+        <content><![CDATA[Follow my Lead]]></content>
+        <guide display_value="ESC Main page">e216e865dbaa11104bcf72c7f49619f5</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name>Introduction</name>
+        <options/>
+        <order>0</order>
+        <placement>bottom</placement>
+        <skippable>false</skippable>
+        <step_type>intro</step_type>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-14 17:10:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>30a6ec65dbaa11104bcf72c7f4961915</sys_id>
+        <sys_name>Introduction</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt Spoke" source="x_720973_needit_sp">4901506ddb2a11104bcf72c7f4961953</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">4901506ddb2a11104bcf72c7f4961953</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_30a6ec65dbaa11104bcf72c7f4961915</sys_update_name>
+        <target/>
+        <target_ref/>
+        <title><![CDATA[Let&#39;s Get Started]]></title>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window/>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="delete_multiple" query="documentkey=30a6ec65dbaa11104bcf72c7f4961915"/>
+</record_update>
